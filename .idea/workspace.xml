@@ -13,8 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f73e1b2-7bd9-4b28-aaa0-ef3d470fe300" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tarea_EC2_Observer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tarea_EC2_Observer.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tarea_EC2_Observer.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tarea_EC2_Observer.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Tarea_EC2_Observer" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Tarea_EC2_Observer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
@@ -43,12 +41,12 @@
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Tarea_EC2_Observer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tarea_EC2_Observer" TARGET_NAME="Tarea_EC2_Observer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Tarea_EC2_Observer" RUN_TARGET_NAME="Tarea_EC2_Observer">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tarea_EC2_Observer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tarea_EC2_Observer" TARGET_NAME="Tarea_EC2_Observer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Tarea_EC2_Observer" RUN_TARGET_NAME="Tarea_EC2_Observer">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -67,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616530887604</updated>
-      <workItem from="1616530889559" duration="4898000" />
+      <workItem from="1616530889559" duration="4946000" />
+      <workItem from="1616538446286" duration="1313000" />
     </task>
     <servers />
   </component>
